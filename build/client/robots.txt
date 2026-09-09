@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://plasticmarket.suaveforge.com/sitemap.xml
